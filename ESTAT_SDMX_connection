@@ -1,0 +1,7 @@
+This is the ESTAT SDMX connection method:
+
+https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/fats_activ?format=SDMX-CSV
+
+In PowerBI chose SDMX connection:
+
+
