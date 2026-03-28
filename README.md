@@ -1,3 +1,9 @@
+The following connection works with PowerBI installation in Eurostat:
+
+https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/fats_activ?format=SDMX-CSV
+
+Then in PowerBI chose the SMDX connector.
+
 Eurostat-API-custom-connector
 =============================
 
